@@ -1,0 +1,6 @@
+C:\Users\mecan\Desktop\ExemploFinanceiro\ExemploFinanceiro\bin\Debug\ExemploFinanceiro.dll
+C:\Users\mecan\Desktop\ExemploFinanceiro\ExemploFinanceiro\bin\Debug\ExemploFinanceiro.pdb
+C:\Users\mecan\Desktop\ExemploFinanceiro\ExemploFinanceiro\obj\Debug\ExemploFinanceiro.csprojAssemblyReference.cache
+C:\Users\mecan\Desktop\ExemploFinanceiro\ExemploFinanceiro\obj\Debug\ExemploFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\mecan\Desktop\ExemploFinanceiro\ExemploFinanceiro\obj\Debug\ExemploFinanceiro.dll
+C:\Users\mecan\Desktop\ExemploFinanceiro\ExemploFinanceiro\obj\Debug\ExemploFinanceiro.pdb
